@@ -10,6 +10,25 @@ A modern, open-source Flutter mobile application for public transparency, civic 
 
 This project is structured adhering strictly to Clean Architecture principles, ensuring maintainability, testability, and clear separation of concerns across presentation, domain, and data layers.
 
+
+---
+
+## 📱 Screenshots
+
+| Public Feed (`Flux solicitări`) | Request Details (`Detalii cerere`) |
+| :---: | :---: |
+| <img src="screenshots/feed_screen.png" width="300" alt="Public Feed" /> | <img src="screenshots/request_details.png" width="300" alt="Request Details" /> |
+
+| Manage Request (`Gestionează`) | Add Response (`Răspuns`) | Updated Feed |
+| :---: | :---: | :---: |
+| <img src="screenshots/manage_request.png" width="220" alt="Manage Request" /> | <img src="screenshots/add_response.png" width="220" alt="Add Response" /> | <img src="screenshots/feed_updated.png" width="220" alt="Updated Feed" /> |
+
+### Key Features Highlighted
+- 📜 **Public Requests Stream:** Browse transparent public requests sent to local municipalities and institutions with live status indicators.
+- 📄 **Detailed Information & Attachments:** View request details, status timelines, and attached response documents (DOCX, PDF, etc.).
+- ⚙️ **Request Management:** Action controls to record responses, attach files, or log refusal of public disclosures.
+- 📝 **Response Logging:** Interface to log official responses with custom status tagging, received dates, and file attachments.
+
 ---
 
 ## 🛠 Tech Stack & Libraries
